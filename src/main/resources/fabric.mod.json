@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "doph",
+  "version": "1.0",
+
+  "name": "DingOnProjectileHit",
+  "description": "This mod plays the ENTITY_ARROW_HIT_PLAYER sound for mobs",
+  "authors": [
+    "ItsVen"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/doph/icon.png",
+
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "doph.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
