@@ -1,0 +1,30 @@
+{
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-06-24 21:40:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-06-24 21:45:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-06-24 21:45:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-06-24 21:40:23 +0530",
+      "minecraft:wooded_hills": "2021-06-24 21:45:50 +0530",
+      "minecraft:swamp": "2021-06-24 21:40:25 +0530",
+      "minecraft:plains": "2021-06-24 21:39:02 +0530"
+    },
+    "done": false
+  },
+  "DataVersion": 2724
+}

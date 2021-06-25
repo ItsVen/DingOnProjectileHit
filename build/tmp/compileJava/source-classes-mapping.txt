@@ -1,0 +1,4 @@
+net/dingonprojectilehit/mixin/DingOnProjectileHitMixin.java
+ net.dingonprojectilehit.mixin.DingOnProjectileHitMixin
+net/dingonprojectilehit/DingOnProjectileHit.java
+ net.dingonprojectilehit.DingOnProjectileHit
