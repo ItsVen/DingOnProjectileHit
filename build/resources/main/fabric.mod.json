@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "id": "doph",
-  "version": "1.1.0",
+  "version": "1.0.0",
 
   "name": "DingOnProjectileHit",
-  "description": "This mod plays the ENTITY_ARROW_HIT_PLAYER sound for mobs",
+  "description": "This mod plays the ENTITY_ARROW_HIT_PLAYER sound when mobs are hit by arrows",
   "authors": [
-    "ItsVen"
+    "ItsVen",
+    "Hyperbean18"
   ],
   "contact": {
     "homepage": "",
-    "sources": ""
+    "sources": "https://github.com/Hyperbean18/DingOnProjectileHit"
   },
 
   "license": "CC0-1.0",
@@ -23,9 +24,9 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.11.6",
+    "fabricloader": "*",
     "fabric": "*",
-    "minecraft": "1.17.x"
+    "minecraft": "*"
   }
 
 }
