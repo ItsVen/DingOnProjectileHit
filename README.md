@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Ding On Projectile Hit
 
-## Setup
+This is a simple clientside mod that plays the _ENTITY_ARROW_HIT_PLAYER_ sound when mobs are hit by projectiles like arrows.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Here is a video of the mod in action:
 
-## License
+https://www.youtube.com/watch?v=BlNh7Q6MMQs
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+To report bugs/ make suggestions, visit the Github page
