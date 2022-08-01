@@ -1,6 +1,6 @@
 # Ding On Projectile Hit
 
-This is a simple clientside mod that plays the _ENTITY_ARROW_HIT_PLAYER_ sound when mobs are hit by projectiles like arrows.
+This is a simple server-side mod that plays the _ENTITY_ARROW_HIT_PLAYER_ sound when mobs are hit by projectiles like arrows.
 
 Here is a video of the mod in action:
 
